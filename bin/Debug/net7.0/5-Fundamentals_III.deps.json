@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "5-Fundamentals_III/1.0.0": {
+        "runtime": {
+          "5-Fundamentals_III.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5-Fundamentals_III/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
